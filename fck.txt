@@ -1,3 +1,2 @@
 # leave the file named crot.php and never edit it at all, it can damage the function of the file!
-
 # obfus aims to obfuscate shell functions so that they are not detected, and also to make the size lighter
