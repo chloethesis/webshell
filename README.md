@@ -8,8 +8,8 @@
    
 ┌──┤ AUTHOR ├─────────▰▰▰
 │
-├─▣ S3RV4N7
-├─▣ Author of this shell maker
+├─▣ CHLOE
+├─▣ DESIGN FROM ME
 │
 └───────────────────────────────▰▰▰
 
