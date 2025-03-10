@@ -55,7 +55,7 @@ visit <a href="https://chloethesis.github.io/preview">this page</a> to view
 
 
 > [!NOTE]  
-> Don't edit or rename it, it will cause the file function to be damaged and inaccessible.
+> 名前を変更したり編集したりする場合は、まず難読化を解除してください。
 
 
  
