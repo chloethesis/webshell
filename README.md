@@ -40,12 +40,12 @@ ______________
 
 | Name              | Default                | Type                       |
 | ------------- |:----------------------:| -------------------------------:|
-| Password      | __AwikWokdjbjwo2928392989992__           | (__md5 hash only__)  |
+| Password      | __admin__           | (__md5 hash only__)  |
  ______________
 
 
 
-### 🛅 Preview
+### 🛅 プレビュー
 
 visit <a href="https://chloethesis.github.io/preview">this page</a> to view
 
