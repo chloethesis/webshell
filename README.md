@@ -8,8 +8,8 @@
    
 ┌──┤ AUTHOR ├─────────▰▰▰
 │
-├─▣ CHLOE
-├─▣ DESIGN FROM ME
+├─▣ クロエ
+├─▣ 私からのデザイン
 │
 └───────────────────────────────▰▰▰
 
@@ -25,7 +25,7 @@
 </pre>
 
 
-### 🚀About Feature & Display
+### 🚀機能と外観について
 
 - [x] **php 8.x**
 - [x] **new design from me**
