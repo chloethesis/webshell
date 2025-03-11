@@ -47,7 +47,6 @@ ______________
 
 ### 🛅 プレビュー
 
-visit <a href="https://chloethesis.github.io/preview">this page</a> to view
 
 <br>
 
