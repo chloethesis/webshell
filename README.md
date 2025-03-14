@@ -44,9 +44,9 @@ ______________
 
 ### 🛅 プレビュー
 
-<img src="./img/login.jpg" width="100%" alt="Login" />
+<img src="./img/login-404.jpg" width="100%" alt="Login" />
 
-<img src="./img/appearance.jpg" width="100%" alt="Login" />
+<img src="./img/screenshot.jpg" width="100%" alt="Login" />
 
 
 
