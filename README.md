@@ -43,7 +43,11 @@ ______________
 
 
 ### 🛅 プレビュー
-すみません、忘れてました (⁠٥⁠↼⁠_⁠↼⁠)
+
+<img src="./img/login.jpg" width="100%" alt="Login" />
+
+<img src="./img/appearance.jpg" width="100%" alt="Login" />
+
 
 
 <br>
